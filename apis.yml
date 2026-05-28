@@ -1,0 +1,32 @@
+aid: redash
+name: Redash
+description: "Access your queries and dashboards on Redash"
+url: https://redash.io/help/user-guide/integrations-and-api/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Business"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Business
+  - Public APIs
+apis:
+  - name: Redash
+    description: "Access your queries and dashboards on Redash"
+    humanURL: https://redash.io/help/user-guide/integrations-and-api/api
+    baseURL: https://redash.io/help/user-guide/integrations-and-api/api
+    tags:
+      - Business
+    properties:
+      - type: Documentation
+        url: https://redash.io/help/user-guide/integrations-and-api/api
+common:
+  - type: Website
+    url: https://redash.io/help/user-guide/integrations-and-api/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
