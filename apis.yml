@@ -39,7 +39,6 @@ apis:
   - name: Redash
     description: "Access your queries and dashboards on Redash"
     humanURL: https://redash.io/help/user-guide/integrations-and-api/api
-    baseURL: https://redash.io/help/user-guide/integrations-and-api/api
     tags:
       - Business
     properties:
