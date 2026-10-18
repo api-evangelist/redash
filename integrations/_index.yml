@@ -88,5 +88,5 @@
     quality:
     - unknown
     builder: 'community (Meltano Hub variant maintainers: domb16)'
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
